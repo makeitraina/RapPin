@@ -63,3 +63,4 @@ target/
 
 # Others
 venv/
+store/top100.json
